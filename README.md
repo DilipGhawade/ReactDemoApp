@@ -21,11 +21,18 @@ Welcome to the React Demo Applications Collection repository! This repository co
 15. [Pokemon Card](#pokemon-card)
 16. [Programmatic Navigation Demo App](#programatic-navigation-demo-app)
 17. [React Demo App Using Vite](#react-demo-app-usingvite)
-18. [Route with Parameter App](#route-with-parameter-app)
-19. [Routing Demo App](#routing-demo-app)
-20. [Timer App](#timer-app)
-21. [useEffect Hook Demo App](#useeffect-hook-demo-app)
-22. [How to Run Any Project](#how-to-run-any-project)
+18. [React Reducer App Projects](#react-reducer-app-projects)
+19. [Redux Counter App](#redux-counter-app)
+20. [Redux Weather App](#redux-weather-app)
+21. [Route with Parameter App](#route-with-parameter-app)
+22. [Routing Demo App](#routing-demo-app)
+23. [Timer App](#timer-app)
+24. [useEffect Hook Demo App](#useeffect-hook-demo-app)
+25. [Custom Hook Fetch API Demo](#custom-hook-fetch-api-demo)
+26. [Use Context App](#use-context-app)
+27. [Use Counter App](#use-counter-app)
+28. [UseContext Hook Theme Change Demo](#usecontext-hook-theme-change-demo)
+29. [How to Run Any Project](#how-to-run-any-project)
 
 ## Animated Route Demo App
 
@@ -276,6 +283,91 @@ This application showcases the various use cases and patterns for the useEffect 
 - API calls with useEffect
 - Side effect management
 - Component lifecycle simulation
+
+## Custom Hook Fetch API Demo
+
+### Description
+A demonstration of creating and using custom hooks for API fetching in React applications.
+
+### Key Features
+- Custom hook implementation for API calls
+- Reusable fetch logic
+- Error handling
+- Loading states
+- Data caching implementation
+
+## Use Context App
+
+### Description
+This application demonstrates the usage of React Context API for state management across components.
+
+### Key Features
+- Context API implementation
+- Global state management
+- Context Provider setup
+- Consumer component patterns
+- Efficient component updates
+
+## Use Counter App
+
+### Description
+A counter application showcasing the implementation of custom hooks for state management.
+
+### Key Features
+- Custom hook for counter logic
+- Reusable state management
+- Multiple counter instances
+- State isolation
+- Custom hook composition
+
+## UseContext Hook Theme Change Demo
+
+### Description
+This application demonstrates theme switching functionality using React's Context API.
+
+### Key Features
+- Theme context implementation
+- Dynamic theme switching
+- Global theme state management
+- Styled components integration
+- Persistent theme preferences
+
+
+## React Reducer App Projects
+
+### Description
+This collection of projects demonstrates the implementation and usage of reducers in React for efficient state management across different application scenarios.
+
+### Key Features
+- Implementation of useReducer hook
+- Complex state logic management
+- Action dispatching patterns
+- State immutability principles
+- Multiple reducer examples for different use cases
+
+## Redux Counter App
+
+### Description
+A counter application that demonstrates the implementation of Redux for state management, showcasing the fundamental concepts of Redux architecture.
+
+### Key Features
+- Redux store setup
+- Action creators and reducers
+- State management with Redux
+- Redux DevTools integration
+- Component connection to Redux store
+
+## Redux Weather App
+
+### Description
+An application that fetches and displays weather data using Redux for state management, demonstrating asynchronous operations in Redux.
+
+### Key Features
+- Redux Thunk for async actions
+- API integration for weather data
+- Loading states and error handling
+- Data normalization with Redux
+- Selectors for efficient data access
 
 ## How to Run Any Project
 
